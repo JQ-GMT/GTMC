@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://jtjdxh.tunnel.echomod.cn/gmt/appDownload/ios</string>
+            <string>http://124.207.110.194:7722/gmt/appDownload/ios</string>
           </dict>
           <dict>
             <key>kind</key>
