@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://58.213.100.35:9736/gmt/appDownload/ios</string>
+            <string>http://36.111.83.44:9799/gmt/appDownload/ios</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://36.111.83.44:9799/appCenter/setupImage/5BF6D637000000015566B727D7EE8942/icon.png</string>
+            <string>http://dgt.91biz.com.cn:9770/appCenter/setupImage/5BF6D637000000015566B727D7EE8942/icon.png</string>
           </dict>
         </array>
         <key>metadata</key>
