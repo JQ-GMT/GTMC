@@ -12,7 +12,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://10.193.64.65:8086/gmt/appDownload/ios</string>
+            <string>https://wbpt.crhc.cn/gmt/appDownload/ios</string>
           </dict>
           <dict>
             <key>kind</key>
